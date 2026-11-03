@@ -56,11 +56,9 @@ I am a Computer Science student passionate about web development, programming, a
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshu-coder-art&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu-coder-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 
